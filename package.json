@@ -32,7 +32,7 @@
     "babel-preset-stage-2": "^6.24.1",
     "bable-loader": "^0.0.1-security",
     "ejs": "^3.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "pm2": "^4.2.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
